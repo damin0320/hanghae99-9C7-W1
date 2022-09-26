@@ -19,6 +19,8 @@
 
 ## <a href="https://www.notion.so/joyfive/C-7-SA-d39031182ebb4444aca55339cf89f7f4">SA</a>
 
+## <a href="https://youtu.be/MFXuNat4a0I">Youtube 시연 링크<a>
+
 <br>
 
 ## 기술 스택
